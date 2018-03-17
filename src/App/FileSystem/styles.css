@@ -1,0 +1,25 @@
+.file-system-outer-div {
+    display: inline-block;
+
+}
+
+
+.folder-outer-div, .file-outer-div {
+    padding-left: 10px;
+    margin-bottom: 5px;
+    margin-top: 5px;
+}
+
+.folder-outer-div {
+}
+
+.folder-content-div {
+    border-left: 1px solid grey;
+}
+
+.folder-icon {
+    padding-right: 5px;
+}
+
+.file-outer-div {
+}
